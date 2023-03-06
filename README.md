@@ -2,4 +2,6 @@
 # Домашнее задание к занятию "8-1_GIT" - `Рыбакин Алексей`
 ### Задание 1
 ![1](./1.png)
-(https://github.com/pam3ec84/git/commit/ee01221ca0514e69a171bf4b2c3fd010819030d9)/ "Задание 1"
+[задание 1](https://github.com/pam3ec84/git/commit/ee01221ca0514e69a171bf4b2c3fd010819030d9)
+### Задание 2
+
