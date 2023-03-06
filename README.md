@@ -7,4 +7,4 @@
 
 [Задание 2](https://github.com/pam3ec84/git/commit/62e2e47f86519e93ba4348d3d65e7136bc18f7d2)
 
-[Задание 3](https://github.com/pam3ec84/git/commit/0199b4fcaef18cd14ade2562a6e81b0674d40dfe)
+[Задание 3](https://github.com/pam3ec84/git/network)
